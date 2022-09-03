@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1661843865 source:/home/kimdj/my_folder/c_programming/Test/main.c
+	<stdio.h>
+
+1661843871 source:/home/kimdj/my_folder/c_programming/Test/challenge1.c
+	<stdio.h>
+
+1661866149 source:/home/kimdj/my_folder/c_programming/Test/pay.c
+	<stdio.h>
+
+1661881695 source:/home/kimdj/my_folder/c_programming/Test/rainfall.c
+	<stdio.h>
+
+1661940342 source:/home/kimdj/my_folder/c_programming/Test/gcd.c
+	<stdio.h>
+
+1661946892 source:/home/kimdj/my_folder/c_programming/Test/tic_tac_toe.c
+	<stdio.h>
+	<stdbool.h>
+
+1662125303 source:/home/kimdj/my_folder/c_programming/Test/string.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1662125545 source:/home/kimdj/my_folder/c_programming/Test/string_answer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
